@@ -16,7 +16,7 @@ The training dataset consists of images labeled with corresponding human actions
 ### Requirements
 Ensure you have the following dependencies installed:
 ```sh
-pip install torch torchvision torchaudio openai-clip pandas opencv-python pillow
+pip install -r requirements.txt
 ```
 
 ## Usage
